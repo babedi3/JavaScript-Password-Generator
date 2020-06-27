@@ -2,6 +2,6 @@
 
 Simple password generator using JavaScript.
 
-https://babedi3.github.io/JavaScript-Password-Generator/
+[DeployedAPP]https://babedi3.github.io/JavaScript-Password-Generator/
 
-[!HomePage](assets/Homepage.png)
+![HomePage](assets/homepage.png)
